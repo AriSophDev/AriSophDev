@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArianDesign
+- 👋 Hi, I’m @SophDev
 - 👀 I’m Digital Design student and front Developer
 <!---
 ArianDesign/ArianDesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
