@@ -1,6 +1,25 @@
-- 👋 Hi, I’m @SophDev
-- 👀 I’m Mobile and front Developer
-<!---
-ArianDesign/ArianDesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Arian Sophia! 👋
+
+**Mobile & Front End Developer**  
+System Engineer | Music & Games Enthusiast
+
+---
+
+### 🔧 Tech Stack
+- JavaScript · React · Swift · SwiftUI · Astrodev · C++  
+- Linux · macOS
+
+---
+
+### 🚀 Featured Project
+- [Dortania OpenCore PKG](https://github.com/dortania/OpenCorePkg)
+
+---
+
+### 👩‍💻 About Me
+Hi, I'm Arian Sophia, a system engineer passionate about mobile and front end development.
+
+---
+
+### 📫 Contact
+sophialarge57@gmail.com
