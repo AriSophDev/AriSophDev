@@ -13,6 +13,7 @@ System Engineer | Music & Games Enthusiast
 
 ### 🚀 Featured Project
 - [Dortania OpenCore PKG](https://github.com/dortania/OpenCorePkg)
+- [hyprland dots](https://github.com/AriSophDev/topidots)
 
 ---
 
