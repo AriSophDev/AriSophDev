@@ -6,7 +6,7 @@ System Engineer | Music & Games Enthusiast
 ---
 
 ### 🔧 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,arch,apple,bash,cpp,git,github,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,arch,apple,bash,cpp,git,github,neovim,react,swift,vite)](https://skillicons.dev)
 
 ---
 
