@@ -5,7 +5,6 @@ System Engineer | Music & Games Enthusiast
 
 ---
 
-https://pixel-profile.vercel.app/api/github-stats?username=<AriSophDev>&theme=journey&pixelate_avatar=false
 
 ### 🔧 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,arch,apple,bash,cpp,git,github,neovim,react,swift,vite)](https://skillicons.dev)
