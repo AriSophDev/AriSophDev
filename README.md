@@ -6,8 +6,7 @@ System Engineer | Music & Games Enthusiast
 ---
 
 ### 🔧 Tech Stack
-- JavaScript · React · Swift · SwiftUI · Astrodev · C++  
-- Linux · macOS
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,arch,apple,bash,cpp,git,github,neovim)](https://skillicons.dev)
 
 ---
 
