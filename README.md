@@ -1,4 +1,4 @@
-# Hi, I'm Arian Sophia! 👋
+# Hi, I'm Iana Sophia! 👋
 
 **Mobile & Front End Developer**  
 System Engineer | Music & Games Enthusiast
