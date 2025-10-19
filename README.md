@@ -18,7 +18,7 @@ System Engineer | Music & Games Enthusiast
 ---
 
 ### 👩‍💻 About Me
-Hi, I'm Arian Sophia, a system engineer passionate about mobile and front end development.
+Hi, I'm Iana Sophia, a system engineer estudent passionate about mobile, front end development, open source and operating systems 
 
 ---
 
