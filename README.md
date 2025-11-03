@@ -1,7 +1,7 @@
 # Hi, I'm Iana Sophia! 👋
 
-**Mobile & Front End Developer**  
-System Engineer | Music & Games Enthusiast
+**Mobile & Front-End Engineer** | **Systems Architect & Open Source Contributor**
+Optimization Focused | Music & Games Enthusiast
 
 ---
 
@@ -18,7 +18,10 @@ System Engineer | Music & Games Enthusiast
 ---
 
 ### 👩‍💻 About Me
-Hi, I'm Iana Sophia, a system engineer estudent passionate about mobile, front end development, open source and operating systems 
+
+Hi, I'm Iana Sophia, an **Engineering student** passionate about building robust **Mobile and Front-End applications**.
+
+My unique value lies in combining high-level UI/UX development with a deep understanding of **Operating Systems** and **Platform Architecture** (Linux, macOS, EFI). I leverage skills in **Shell Scripting** and **System Configuration** to maximize performance and workflow efficiency, contributing actively to the Open Source community.
 
 ---
 
