@@ -19,7 +19,7 @@ Optimization Focused | Music & Games Enthusiast
 
 ### 👩‍💻 About Me
 
-Hi, I'm Iana Sophia, an **Engineering student** passionate about building robust **Mobile and Front-End applications**.
+Hi, I am an **Engineering student** passionate about building robust **Mobile and Front-End applications**.
 
 My unique value lies in combining high-level UI/UX development with a deep understanding of **Operating Systems** and **Platform Architecture** (Linux, macOS, EFI). I leverage skills in **Shell Scripting** and **System Configuration** to maximize performance and workflow efficiency, contributing actively to the Open Source community.
 
