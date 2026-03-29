@@ -7,7 +7,7 @@ Optimization Focused | Music & Games Enthusiast
 
 
 ### 🔧 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,arch,apple,bash,c,cpp,rust,git,github,neovim,react,swift,vite,lua,bun)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,astro,vite,react,swift,arch,apple,bash,c,cpp,rust,git,github,neovim,lua,bun)](https://skillicons.dev)
 
 ---
 
