@@ -23,5 +23,6 @@ Optimization Focused | Music & Games Enthusiast
 
 ---
 
-### 📫 Contact
-sophialarge57@gmail.com
+### 📫 Contact 
+
+flargw212@gmail.com
