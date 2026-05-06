@@ -1,4 +1,4 @@
-# Hi, I'm Iana Sophia! 👋
+# Hi, I'm Topi! 👋
 
 **Mobile & Front-End Engineer** | **Systems Architect & Open Source Contributor**
 Optimization Focused | Music & Games Enthusiast
